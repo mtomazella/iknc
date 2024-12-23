@@ -1,0 +1,9 @@
+tsukuba
+{   
+    "minDisparity": 10,
+    "numDisparities": 1,
+    "blockSize": 21
+}
+
+Chess
+Failed to get anything decent

@@ -1,0 +1,25 @@
+{   
+    "minDisparity": 10,
+    "numDisparities": 1,
+    "blockSize": 21,
+    "P1": 2,
+    "P2": 2,
+    "maxDisparities": 100,
+    "uniqueness": 99,
+    "speckleWindowSize": 1,
+    "speckleRange": 32,
+    "preFilterCap": 30,
+
+    "cameraMatrixLeft": "[1729.05 0 -364.24; 0 1729.05 552.22; 0 0 1]",
+    "cameraMatrixRight":  "[1729.05 0 -364.24; 0 1729.05 552.22; 0 0 1]",
+    "doffs": 0,
+    "baseline": 678.37,
+    "width": 1920,
+    "height": 1080,
+    "ndisp": 310,
+    "vmin": 60,
+    "vmax": 280,
+
+    "riskMatrixRows": 3,
+    "riskMatrixCols": 3
+}
